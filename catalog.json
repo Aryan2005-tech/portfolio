@@ -4,14 +4,28 @@
     "version": "5da690bd"
   },
   "products": [
-    {
-      "id": 1,
-      "name": "Sample Product 1",
-      "category": "books",
-      "price": 4999.99,
-      "stock": 5,
-      "rating": 4.5
-    }
+    {"id":"prod-5da690bd-001","name":"Premium Item 1","category":"sports","price":109.8,"stock":134,"rating":4.3},
+    {"id":"prod-5da690bd-002","name":"Pro Item 2","category":"home","price":169.31,"stock":177,"rating":1.9},
+    {"id":"prod-5da690bd-003","name":"Premium Item 3","category":"home","price":477.08,"stock":17,"rating":3.1},
+    {"id":"prod-5da690bd-004","name":"Premium Item 4","category":"sports","price":260.85,"stock":84,"rating":3.2},
+    {"id":"prod-5da690bd-005","name":"Premium Item 5","category":"sports","price":442.65,"stock":172,"rating":4},
+    {"id":"prod-5da690bd-006","name":"Basic Item 6","category":"home","price":233.73,"stock":149,"rating":2.1},
+    {"id":"prod-5da690bd-007","name":"Basic Item 7","category":"home","price":340.36,"stock":182,"rating":2.5},
+    {"id":"prod-5da690bd-008","name":"Basic Item 8","category":"sports","price":203.38,"stock":63,"rating":4.4},
+    {"id":"prod-5da690bd-009","name":"Elite Item 9","category":"clothing","price":175.85,"stock":47,"rating":2.9},
+    {"id":"prod-5da690bd-010","name":"Basic Item 10","category":"home","price":263.3,"stock":92,"rating":1},
+    {"id":"prod-5da690bd-011","name":"Premium Item 11","category":"home","price":208.29,"stock":147,"rating":2.5},
+    {"id":"prod-5da690bd-012","name":"Basic Item 12","category":"books","price":198.2,"stock":139,"rating":3.5},
+    {"id":"prod-5da690bd-013","name":"Pro Item 13","category":"home","price":374.96,"stock":23,"rating":1.8},
+    {"id":"prod-5da690bd-014","name":"Elite Item 14","category":"electronics","price":468.38,"stock":149,"rating":3.4},
+    {"id":"prod-5da690bd-015","name":"Standard Item 15","category":"books","price":307.63,"stock":108,"rating":1.1},
+    {"id":"prod-5da690bd-016","name":"Premium Item 16","category":"clothing","price":265.19,"stock":68,"rating":4.7},
+    {"id":"prod-5da690bd-017","name":"Premium Item 17","category":"home","price":27.4,"stock":68,"rating":3.1},
+    {"id":"prod-5da690bd-018","name":"Pro Item 18","category":"sports","price":135.62,"stock":174,"rating":3},
+    {"id":"prod-5da690bd-019","name":"Pro Item 19","category":"home","price":283.76,"stock":141,"rating":4},
+    {"id":"prod-5da690bd-020","name":"Basic Item 20","category":"electronics","price":261.75,"stock":34,"rating":2.5},
+    {"id":"prod-5da690bd-021","name":"Standard Item 21","category":"books","price":482.37,"stock":101,"rating":4.3},
+    {"id":"prod-5da690bd-022","name":"Premium Item 22","category":"sports","price":433.14,"stock":59,"rating":1.3}
   ],
   "aggregations": {
     "books": {
