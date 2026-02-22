@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "email": "23f3001584@ds.study.iitm.ac.in",
+    "version": "5da690bd"
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Sample Product 1",
+      "category": "books",
+      "price": 4999.99,
+      "stock": 5,
+      "rating": 4.5
+    }
+  ],
+  "aggregations": {
+    "books": {
+      "count": 3,
+      "inventoryValue": 109493.21
+    }
+  }
+}
