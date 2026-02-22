@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create cache directory
+        run: mkdir -p ~/.cache/pip
+
       - name: Cache dependencies
         id: cache
         uses: actions/cache@v4
